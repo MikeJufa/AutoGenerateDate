@@ -65,7 +65,7 @@ END SUB
 //updated on April 2, 2018
 
 /*****Raw_Calendar Tab*****/
-LET vDateMin = num(MakeDate(2012,1,1));
+LET vDateMin = num(MakeDate(2002,2,3));
 LET vDateMax = Floor(MonthEnd(Today()));
 LET vDateToday = num(Today());
 
